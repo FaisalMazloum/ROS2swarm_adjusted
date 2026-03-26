@@ -1,6 +1,6 @@
 # ROS2swarm (Adjusted & Expanded)
 
-This project is a modified and expanded version of the original [ROS2swarm](https://github.com). repository, originally developed by the University of Lübeck. 
+This project is a modified and expanded version of the original [ROS2swarm](https://github.com/ROS2swarm/ROS2swarm.git). repository, originally developed by the University of Lübeck. 
 
 ## Overview
 This version of ROS2swarm has been adjusted for my specific research/project needs. It builds upon the original swarm robotics framework to provide enhanced capabilities in ROS2.
